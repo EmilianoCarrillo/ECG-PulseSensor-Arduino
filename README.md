@@ -2,7 +2,7 @@
 
 ![myECG](https://github.com/emiliano-carrillo/ECG-PulseSensor-Arduino/blob/master/README%20photos/Captura%20de%20pantalla%202016-12-22%20a%20la(s)%2013.59.13.png)
 ---
-[You can click here to check some more videos and photos about the project.](https://drive.google.com/drive/folders/0BwWofzZMwB7DLTU0ZGFRLXVIRTQ?usp=sharing)
+[You can click here to check some more videos and photos about the project.](https://drive.google.com/file/d/0B7gTH-maKTLiVDBhSjJ2X2hRYkU/view?usp=sharing)
 
 ## WHAT IS IT?
 The heart rate monitor I built is a cheap and simple instrument, you can use it in many ways and it has lots of functions such as:
