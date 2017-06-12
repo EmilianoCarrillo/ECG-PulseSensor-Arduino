@@ -52,4 +52,7 @@ The arduino reads these values through a digital input (Pin A0) and does differe
 - [] Red LED
 - Photoresistance
 
+![CoverPhoto](https://github.com/emiliano-carrillo/ECG-PulseSensor-Arduino/blob/master/README%20photos/ECG.jpg?raw=true)
+
+
 **Built and programmed by Emiliano Carrilo Moncayo. 2016.**
